@@ -18,8 +18,8 @@ app.use(helmet());
 app.use(cors());
 
 
-app.get('/', (req, res) => {
-  res.send('U Pick API!');
+app.use('/', (req, res) => {
+  res.send(['data from u-pick-api!']);
 });
 
 // Error handler middleware
