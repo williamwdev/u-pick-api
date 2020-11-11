@@ -19,7 +19,7 @@ app.use(cors());
 
 
 app.get('/', (req, res) => {
-  res.send('Hello, world!');
+  res.send('U Pick API!');
 });
 
 // Error handler middleware
