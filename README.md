@@ -1,6 +1,9 @@
-# Express Boilerplate!
+# U Pick API
 
-This is a boilerplate project used for starting new projects!
+[Deployed API](https://pacific-waters-53419.herokuapp.com/) -- in progress
+[Deployed Client](https://u-pick-client.vercel.app/) -- in progress
+[Client repo](https://github.com/williamwdev/u-pick-client)
+
 
 ## Setting up a new project
 
